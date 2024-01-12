@@ -1,6 +1,8 @@
 ### Hi. my name is soh seungho. I want to make start-up.
 
+I will record my project history how i make service.
 
+welcome.
 
 <!--
 **shocoding/shocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
